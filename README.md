@@ -1,5 +1,9 @@
 # A-Content-Analysis-Analyzing-Topics-of-Conversation-under-the-Sustainability-Hashtag-on-Twitter-
 
+This github contains the datafile used in my study.
+
+
+ABSTRACT:
 This study aimed to identify and understand the major topics of discussion under the #sustainability hashtag on Twitter and understand user engagement. 
 The sharp increase in social media usage combined with a rise in climate anomalies in recent years makes the area of sustainability as it relates to social media a critical topic. 
 Python code was created to gather Twitter posts between January 1, 2023 - March 1, 2023. 
